@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Conway's Game of life
+
+_"Conway game" redirects here. For Conway's surreal number game theory, see Surreal number._
+
+### Read About the Game Here - [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
